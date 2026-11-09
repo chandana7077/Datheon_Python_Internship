@@ -31,3 +31,27 @@ Chandana
 
 ## Internship
 Datheon Python Programming Internship
+## Task 2: Stock Portfolio Performance Tracker
+
+### Description
+A Python application that tracks stock investments,
+fetches stock prices using Yahoo Finance, calculates
+profit or loss, and saves portfolio details to a CSV file.
+
+### Technologies Used
+- Python
+- yfinance
+- CSV
+- datetime
+- os
+
+### Features
+- Enter stock ticker, buy price, and quantity.
+- Fetch the latest available stock price.
+- Calculate investment and current market value.
+- Calculate individual and overall profit or loss.
+- Save portfolio results in a CSV file.
+
+### Files
+- portfolio.py
+- portfolio_summary.csv
